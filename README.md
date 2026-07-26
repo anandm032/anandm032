@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00A67E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anand+M+%F0%9F%91%8B;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Building+with+Python%2C+ML+%26+NLP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00A67E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anand+%F0%9F%91%8B;I+build+things+with+data+and+AI;Python+%7C+ML+%7C+NLP+%7C+GenAI;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 </div>
 
@@ -15,20 +15,21 @@
   <img src="https://img.shields.io/github/followers/anandm032?label=Followers&style=flat&color=blue" alt="followers" />
 </p>
 
+<br>
+
+😄 I'm into **Machine Learning, NLP, and Generative AI** — I like turning messy data into something useful, and messy problems into working prototypes.
+
+🔭 Right now I'm building AI-powered tools — chatbots, prediction systems, and automation that actually solve a problem instead of just being a demo.
+
+🌱 Currently deep-diving into **LLMs, RAG pipelines, and prompt engineering**.
+
+📊 On the data side, I work a lot with **EDA, Power BI dashboards, and predictive modeling**.
+
+👯 Open to collaborating on **ML / NLP / Data Analytics** projects — hit me up if you're building something interesting.
+
 ---
 
-### 🚀 About Me
-
-- 🎓 Final-year **B.Tech in Artificial Intelligence and Data Science** — CGPA **9.0/10**
-- 🔭 Currently building AI-powered applications: NL-to-SQL chatbots, resume screening systems, interview prep assistants
-- 🌱 Currently learning **LLMs, RAG pipelines, and advanced Prompt Engineering**
-- 📊 Turning raw data into insights with **Power BI, Python, and Excel**
-- 👯 Looking to collaborate on **ML, NLP, and Data Analytics** projects
-- 🎯 Seeking a **Data Analyst** or **Machine Learning Engineer** role
-
----
-
-### 💻 Tech Stack
+### 🛠️ Tech I Work With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode,flask,opencv&theme=dark" />
@@ -72,48 +73,23 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/anandm032/anandm032/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> Note: the snake animation needs a one-time GitHub Action set up in your own repo — instructions are in the setup notes below.
-
 ---
 
-### 💼 Experience
+### 🔥 Things I've Built
 
-**Data Analytics Intern** — *Elevate Lab* (Aug 2025 – Sep 2025)
-Data cleaning, EDA, and dashboarding on structured datasets using Python & Excel to surface KPIs for stakeholders.
-
-**Data Analytics Intern** — *Skillsfied Mentor* (Jul 2025 – Aug 2025)
-Analyzed structured datasets to generate business insights, built visual reports for non-technical audiences.
-
----
-
-### 🔥 Featured Projects
-
-| Project | Description |
+| Project | What it does |
 |---|---|
-| 🏦 **Credit Card Approval Prediction** | ML model predicting approvals with preprocessing & classification metrics |
-| 🏪 **Store Sales Prediction** | Regression model forecasting store sales from historical data |
-| 🗣️ **SQL Chatbot** | NL-to-SQL chatbot integrating NLP with database operations |
-| 🚗 **Vehicle Monitoring & Insurance Scoring** | ML-based vehicle risk classification & insurance scoring |
-| ⚡ **EV Slot Booking & Occupancy Prediction** | Smart EV charging slot booking with occupancy forecasting |
-| 🎤 **AI Interview Prep Assistant** | NLP-powered platform generating role-specific interview Q&A with feedback |
-| 📸 **Face Recognition Attendance System** | Real-time face detection & automated attendance using OpenCV |
+| 🗣️ **SQL Chatbot** | Converts natural language into SQL — ask a question, get a query and an answer |
+| 🏦 **Credit Card Approval Prediction** | ML model that predicts approval likelihood from applicant data |
+| 🏪 **Store Sales Prediction** | Forecasts future sales using regression on historical trends |
+| 🚗 **Vehicle Monitoring & Insurance Scoring** | Scores driving risk from vehicle data for smarter insurance pricing |
+| ⚡ **EV Slot Booking & Occupancy Prediction** | Predicts charging station occupancy and optimizes slot booking |
+| 🎤 **AI Interview Prep Assistant** | Generates role-specific interview questions and gives feedback |
+| 📸 **Face Recognition Attendance System** | Real-time face detection for automated attendance, built with OpenCV |
 
 ---
 
-### 🎓 Education
-
-**B.Tech (Honours) – AI & Data Science**, JCT College of Engineering and Technology, Coimbatore
-2023 – 2027 | CGPA: 9.0/10 | Selected for Honours Program (zero arrears)
-
----
-
-### 📜 Certifications
-
-Google Advanced Data Analytics · Google Data Analytics · Python for Data Science (Coursera) · NPTEL Network Security · Power BI Workshop
-
----
-
-<p align="center">💬 <i>Let's connect and build something impactful with data!</i></p>
+<p align="center">💬 <i>Always down to talk data, ML, or the next weird project idea.</i></p>
