@@ -106,14 +106,6 @@ fun_fact: I'd rather ship a rough working prototype than polish a slide deck
 
 <br>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anandm032/anandm032/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<br>
-
 ## 🔥 Things I've Built
 
 <table>
@@ -154,16 +146,6 @@ Real-time face detection and recognition for automated attendance logging.
 </td>
 </tr>
 </table>
-
-<br>
-
-## 📈 Contribution Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anandm032&theme=react&hide_border=true&layout=compact" alt="wakatime stats (connect WakaTime to activate)" />
-</p>
-
-> 💡 Connect a [WakaTime](https://wakatime.com/) account to show real coding-time stats here instead of this placeholder.
 
 <br>
 
